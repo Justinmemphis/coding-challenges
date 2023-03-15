@@ -1,6 +1,7 @@
 # coding-challenges
 <h1>CodeWars Challenges: <a href="https://www.codewars.com/users/Justinmemphis">See Profile Here</a>
-  <img src="https://s3.amazonaws.com/www.justinmemphis.com/images/codwars-031523-top.jpg" alt="codwars profile">
+  <img src="https://s3.amazonaws.com/www.justinmemphis.com/images/codwars-031523-top.jpg" alt="codewars profile top">
+  <img src="https://s3.amazonaws.com/www.justinmemphis.com/images/codwars-031523-bottom.jpg" alt="codewars profile bottom">
 
 A repository filled with CodeWars challenges (kata).  I complete one of these every day.
 <h2>How It's Made:</h2>
