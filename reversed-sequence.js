@@ -1,0 +1,30 @@
+/* Reversed sequence
+ * 8kyu
+ *
+ * Description:
+ 
+
+Build a function that returns an array of integers from n to 1 where n>0.
+
+Example : n=5 --> [5,4,3,2,1]
+Fundamentals
+*/
+
+// Solution:
+// PREP - Parameters, Results, Example, Pseudocode
+// Parameters - receive an interger greater than 0
+// Results - return the sequence of integers from the given one down to one
+// Example - 5 -> 5,4,3,2,1
+// Pseudocode:
+// 	create result array
+// 	iterate from n to 1
+// 		add integers to result array
+// 	return result array
+
+const reverseSeq = n => {
+	let result = [];
+	for (let i = n; i > 0; i--) {
+		result.push(i);
+	};
+	return result;
+}
