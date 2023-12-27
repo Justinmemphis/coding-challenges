@@ -86,7 +86,14 @@ Copyright ©️ 2023 LeetCode All rights reserved
 
 import pandas as pd
 
+# first solution:
 def selectFirstRows(employees: pd.DataFrame) -> pd.DataFrame:
     df = pd.DataFrame(employees)
     return df.loc[[0,1,2]]
+
+# better solution:
+import pandas as pd
+
+def selectFirstRows(employees: pd.DataFrame) -> pd.DataFrame:
+    return employees.loc[[0,1,2]]
 
