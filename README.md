@@ -1,5 +1,6 @@
 # coding-challenges
-<h1>CodeWars Challenges: <a href="https://www.codewars.com/users/Justinmemphis">See Profile Here</a></h1></h1>
+<h1>LeetCode: <a href="https://leetcode.com/justincarter/">Profile</a></h1>
+<h1>CodeWars: <a href="https://www.codewars.com/users/Justinmemphis">Profile</a></h1>
   <img src="https://s3.amazonaws.com/www.justinmemphis.com/images/codewars-4kyu-top-060423.jpg" alt="codewars profile top">
   <img src="https://s3.amazonaws.com/www.justinmemphis.com/images/codewars-4kyu-bottom-060423.jpg" alt="codewars profile bottom">
 
