@@ -11,3 +11,6 @@ Tech used: Python, C#, and JavaScript. Every day I complete one of these challen
 I consistently refactor and optimize my code to improve readability and efficiency.
 ## Lessons Learned:
 The biggest lesson I have learned in tackling all of these coding challenges is that consistent, diligent practice has really helped me get better.
+
+## To do:
+Add leetcode screenshot
